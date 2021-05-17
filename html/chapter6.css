@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+	
+	font-family: Helvetica;
+	font-size:15px;
+	width:960px;
+	margin-left: 100px;
+	margin-right: 100px;
+	background-image: url(chap6.png);
+	
+}
+
+.content{
+	
+	background-color: rgba(0,0,0,0.50);
+	color: #D919BA;
+	padding: 20px;
+	margin-top: 20px;
+	
+}
+
+p{
+	color: #F1D24D;
+	font-size:18px;
+}
+
+h2{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: #D919BA;
+}
